@@ -1,6 +1,7 @@
 # Ziyao233
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=ziyao233&show_icons=true&theme=tokyonight)](https://github.com/ziyao233)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ziyao233&layout=compact&theme=tokyonight&langs_count=8)](https://github.com/ziyao233)
 
 ## Who I am?
 - C & Lua Programmer

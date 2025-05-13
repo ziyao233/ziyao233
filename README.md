@@ -7,6 +7,5 @@
 - Fixing things for RISC-V and LoongArch
 - Minimalist
 - Proudly Being a Trans
-
 - My blog: [ziyao233.github.io](https://ziyao233.github.io/)
 - Reach me through `Yao Zi <ziyao at disroot dot org>`

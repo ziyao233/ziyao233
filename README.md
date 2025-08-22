@@ -8,4 +8,11 @@
 - Minimalist
 - Proudly Being a Trans
 - My blog: [ziyao233.github.io](https://ziyao233.github.io/)
-- Reach me through `Yao Zi <ziyao at disroot dot org>`
+- Reach me through `Yao Zi <ziyao at disroot dot org>`. This is also used for
+  all my Sign-off-by lines.
+
+## Currently working at
+
+- Shanghai Kubuds Technology Co., Ltd.
+- I'm not an employee of Uniontech Software Technology Co., Ltd., and
+  `liziyao@uniontech.com` isn't my mail address.

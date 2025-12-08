@@ -8,8 +8,10 @@
 - Minimalist
 - Proudly Being a Trans
 - My blog: [ziyao233.github.io](https://ziyao233.github.io/)
-- Reach me through `Yao Zi <ziyao at disroot dot org>`. This is also used for
-  all my Sign-off-by lines.
+- Reach me through `Yao Zi <me at ziyao dot cc>`. This is also used for
+  all my new Sign-off-by lines.
+  - I used `Yao Zi <ziyao at disroot dot org>` for cooperation and SoB lines,
+    but this address isn't active anymore.
 
 ## Currently working at
 

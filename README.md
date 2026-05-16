@@ -5,7 +5,7 @@
 - Fixing things for RISC-V and LoongArch
 - Minimalist
 - Proudly Being a Trans
-- My blog: [ziyao233.github.io](https://ziyao233.github.io/)
+- My blog: [blog.ziyao.cc](https://blog.ziyao.cc)
 - Reach me through `Yao Zi <me at ziyao dot cc>`. This is also used for
   all my new Sign-off-by lines.
   - I used `Yao Zi <ziyao at disroot dot org>` for cooperation and SoB lines,
